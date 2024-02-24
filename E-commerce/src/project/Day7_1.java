@@ -61,6 +61,7 @@ public class Day7_1 {
 					    for (String handle : driver.getWindowHandles()) {
 					    	driver.switchTo().window(handle);	        
 					    }
+					    driver.quit();
 }
 }
 
