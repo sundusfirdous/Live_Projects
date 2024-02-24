@@ -76,16 +76,15 @@ public static void main(String[] args) throws Exception {
 	    assertEquals(sonyXperiaP, sonyXperiaPrice2); 
 	    System.out.println("Price Verified");
 		Thread.sleep(2000);
-	    
+		driver.quit();
 }
 
 	private static void assertEquals(String sonyXperiaP, String sonyXperiaPrice2) {
 		// TODO Auto-generated method stub
 		
 	}
-
+	
 	
 	}
-
 
 
