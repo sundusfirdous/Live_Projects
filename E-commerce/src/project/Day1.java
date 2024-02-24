@@ -46,6 +46,7 @@ public class Day1 {
 		mobile2.get(1).click();
 		Thread.sleep(2000);
 	    
+		driver.quit();
 		
 		}
 
