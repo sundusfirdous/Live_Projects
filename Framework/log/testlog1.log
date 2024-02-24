@@ -1,0 +1,51 @@
+2023-12-28 15:29:23,585 [main] INFO LoginPage - Clicked on Email
+2023-12-28 15:38:34,001 [main] INFO LoginPage - Clicked on Email
+2023-12-28 15:55:20,963 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:03:22,760 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:08:04,020 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:08:04,114 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:08:04,245 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:28:58,216 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:28:58,291 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:28:58,426 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:41:52,774 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:41:52,840 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:41:52,964 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:46:27,222 [main] INFO LoginPage - Clicked on Email
+2023-12-28 16:46:27,288 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:46:27,408 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:50:33,699 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:50:33,769 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:50:36,854 [main] INFO LoginPage - Entered Password
+2023-12-28 16:52:05,666 [main] INFO LoginPage - Cleared Password
+2023-12-28 16:52:05,740 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 16:52:08,820 [main] INFO LoginPage - Entered Password
+2023-12-28 22:12:34,065 [main] INFO LoginPage - Cleared Password
+2023-12-28 22:12:34,143 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 22:14:48,854 [main] INFO LoginPage - Cleared Password
+2023-12-28 22:14:48,933 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 22:15:28,824 [main] INFO LoginPage - Cleared Password
+2023-12-28 22:15:28,891 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 22:18:34,380 [main] INFO LoginPage - Cleared Password
+2023-12-28 22:18:34,463 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 22:22:33,417 [main] INFO LoginPage - Cleared Password
+2023-12-28 22:22:33,493 [main] INFO LoginPage - Fetched Facebook Text
+2023-12-28 22:33:46,521 [main] INFO Log4JLogging - Entered Password
+2023-12-28 22:42:18,179 [main] INFO Log4JLogging - Entered Email
+2023-12-28 22:42:18,247 [main] INFO Log4JLogging - Clicked Password
+2023-12-28 22:42:18,306 [main] INFO Log4JLogging - Entered Password
+2023-12-28 22:42:18,333 [main] INFO Log4JLogging - "Fetched Facebook Text
+2023-12-28 22:42:21,422 [main] INFO Log4JLogging - Cleared EmailOrPhone
+2023-12-28 22:42:27,486 [main] INFO Log4JLogging - Cleared Password
+2023-12-28 22:49:21,321 [main] INFO Log4JLogging - Entered Email
+2023-12-28 22:49:21,397 [main] INFO Log4JLogging - Clicked Password
+2023-12-28 22:49:21,443 [main] INFO Log4JLogging - Entered Password
+2023-12-28 22:49:21,471 [main] INFO Log4JLogging - Fetched Facebook Text
+2023-12-28 22:49:24,542 [main] INFO Log4JLogging - Cleared EmailOrPhone
+2023-12-28 22:49:30,604 [main] INFO Log4JLogging - Cleared Password
+2023-12-29 13:24:31,068 [main] INFO Log4JLogging - Entered Email
+2023-12-29 13:24:31,150 [main] INFO Log4JLogging - Clicked Password
+2023-12-29 13:24:31,210 [main] INFO Log4JLogging - Entered Password
+2023-12-29 13:24:31,238 [main] INFO Log4JLogging - Fetched Facebook Text
+2023-12-29 13:24:34,307 [main] INFO Log4JLogging - Cleared EmailOrPhone
+2023-12-29 13:24:40,370 [main] INFO Log4JLogging - Cleared Password
