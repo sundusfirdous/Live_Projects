@@ -1,0 +1,28 @@
+2023-12-09 06:49:38,211 - Log4JLogging -INFO - chrome broser instance opened
+2023-12-09 06:49:38,710 - Log4JLogging -INFO - Window Maximized
+2023-12-09 06:49:38,718 - Log4JLogging -INFO - Implicit wait given
+2023-12-09 06:50:08,749 - Log4JLogging -INFO - Failure  - Web Element not found
+2023-12-09 06:51:28,637 - Log4JLogging -INFO - chrome broser instance opened
+2023-12-09 06:51:29,100 - Log4JLogging -INFO - Window Maximized
+2023-12-09 06:51:29,103 - Log4JLogging -INFO - Implicit wait given
+2023-12-09 06:51:59,170 - Log4JLogging -INFO - Failure  - Web Element not found
+2023-12-09 06:54:18,729 - Log4JLogging -INFO - chrome broser instance opened
+2023-12-09 06:54:19,201 - Log4JLogging -INFO - Window Maximized
+2023-12-09 06:54:19,208 - Log4JLogging -INFO - Implicit wait given
+2023-12-09 06:54:49,253 - Log4JLogging -INFO - Failure  - Web Element not found
+2023-12-09 06:58:08,895 - Log4JLogging -INFO - chrome broser instance opened
+2023-12-09 06:58:09,348 - Log4JLogging -INFO - Window Maximized
+2023-12-09 06:58:09,353 - Log4JLogging -INFO - Implicit wait given
+2023-12-09 06:58:39,385 - Log4JLogging -INFO - Failure  - Web Element not found
+2023-12-09 07:00:40,891 - Log4JLogging -INFO - chrome broser instance opened
+2023-12-09 07:00:41,344 - Log4JLogging -INFO - Window Maximized
+2023-12-09 07:00:41,350 - Log4JLogging -INFO - Implicit wait given
+2023-12-09 07:01:11,412 - Log4JLogging -INFO - Failure  - Web Element not found
+2023-12-09 07:07:43,032 - selenium.Sample -INFO - chrome broser instance opened
+2023-12-09 07:07:43,077 - selenium.Sample -ERROR - [31mError occurred: This is a sample exception[0m
+java.lang.Exception: This is a sample exception
+	at selenium.Sample.main(Sample.java:24)
+2024-01-29 22:28:42,184 - selenium.Sample -INFO - chrome broser instance opened
+2024-01-29 22:28:42,216 - selenium.Sample -ERROR - [31mError occurred: This is a sample exception[0m
+java.lang.Exception: This is a sample exception
+	at selenium.Sample.main(Sample.java:24)
