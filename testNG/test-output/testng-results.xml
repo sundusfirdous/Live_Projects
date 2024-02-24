@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T17:43:20 IST" name="Default suite" finished-at="2024-01-31T17:43:20 IST" duration-ms="58">
+    <groups>
+      <group name="regression">
+        <method signature="Test1.a3()[pri:2, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" name="a3" class="beforeAfterGroupsTestNG.Test1"/>
+        <method signature="Test1.a4()[pri:1, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" name="a4" class="beforeAfterGroupsTestNG.Test1"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-01-31T17:43:20 IST" name="Default test" finished-at="2024-01-31T17:43:20 IST" duration-ms="58">
+      <class name="beforeAfterGroupsTestNG.Test1">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeSuite" finished-at="2024-01-31T17:43:20 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeTest" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeClass" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="a1()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="a1" finished-at="2024-01-31T17:43:20 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="a2()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="a2" finished-at="2024-01-31T17:43:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="a4()[pri:1, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="a4" finished-at="2024-01-31T17:43:20 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a4 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="a3()[pri:2, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="a3" finished-at="2024-01-31T17:43:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="beforeMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterMethod" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterClass" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterTest" finished-at="2024-01-31T17:43:20 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:beforeAfterGroupsTestNG.Test1@4c1909a3]" started-at="2024-01-31T17:43:20 IST" name="afterSuite" finished-at="2024-01-31T17:43:20 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- beforeAfterGroupsTestNG.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
