@@ -78,16 +78,6 @@ public static void main(String[] args) throws Exception {
 	WebElement maritalStatus = driver.findElement(By.xpath("(//div[@role='listbox']//child::div)[3]"));
 	maritalStatus.click();
 	Thread.sleep(2000);
-	
-	//Date of Birth Calendar
-	Actions act = new Actions(driver);
-	WebElement dateOfBirth = driver.findElement(By.xpath("(//i[@class='oxd-icon bi-calendar oxd-date-input-icon'])[2]"));
-	act.moveToElement(dateOfBirth).click().build().perform();
-	Thread.sleep(2000);
-	WebElement dateOfBirthCalender = driver.findElement(By.xpath("//div[@class='oxd-date-input-link --clear']"));
-	act.moveToElement(dateOfBirthCalender).click().build().perform();
-	Thread.sleep(2000);
-	act.sendKeys(dateOfBirth,"1996-28-04").build().perform();
 
 	//Select Gender
 	WebElement radioBtn = driver.findElement(By.xpath("(//span[@class='oxd-radio-input oxd-radio-input--active --label-right oxd-radio-input'])[2]"));
